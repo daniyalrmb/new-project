@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid black;
+  background-color: #36c;
+  color: #fff;
+}
